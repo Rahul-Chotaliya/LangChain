@@ -29,3 +29,5 @@ scikit-learn
 
 pydantic
 grandalf
+pypdf
+bs4
