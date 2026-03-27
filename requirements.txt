@@ -31,3 +31,6 @@ pydantic
 grandalf
 pypdf
 bs4
+
+
+langchain_experimental
