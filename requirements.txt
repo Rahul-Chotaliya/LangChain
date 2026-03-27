@@ -34,3 +34,4 @@ bs4
 
 
 langchain_experimental
+langchain-mcp-adapters==0.2.1

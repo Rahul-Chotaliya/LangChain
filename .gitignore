@@ -3,4 +3,3 @@
 venv.env
 /.env.example
 .env.example
-MCP-Client
