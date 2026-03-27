@@ -31,8 +31,8 @@ template = PromptTemplate(
 )
 
 # Use the template
-prompt = template.invoke({'name': 'nitish'})
-# Result: 'Greet this person in 5 languages. The name of the person is nitish'
+prompt = template.invoke({'name': 'Rahul'})
+# Result: 'Greet this person in 5 languages. The name of the person is Rahul'
 
 # Pass to model
 result = model.invoke(prompt)
