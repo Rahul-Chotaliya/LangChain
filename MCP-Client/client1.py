@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import asyncio
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
